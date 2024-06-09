@@ -15,7 +15,7 @@ or not and if some card is being shown or not.
 Python-wise, this project is a way for me to explore the object-oriented
 programming to perform data analysis.
 
-## How to run the code
+# How to run the code
 To run the code you should download the entire content of the repository in a folder. Then you can run the following command from the command line:
 
 python Cluedo.py
